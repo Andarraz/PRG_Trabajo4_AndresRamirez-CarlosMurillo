@@ -7,4 +7,4 @@ Para cumplir este proposito se hicieron los siguientes pasos:
 3. Modelado
 4. Comparado de modelos
 Informe de todos estos pasos profundizados en el informe adjunto
-
+.
