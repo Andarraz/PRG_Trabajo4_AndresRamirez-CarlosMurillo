@@ -6,4 +6,4 @@ Para cumplir este proposito se hicieron los siguientes pasos:
 2. Preprocesado de los datos
 3. Modelado
 4. Comparado de modelos
-Informe todos estos pasos profundizados en el informe adjunto
+Informe de todos estos pasos profundizados en el informe adjunto
